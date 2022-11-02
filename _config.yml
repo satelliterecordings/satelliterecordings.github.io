@@ -1,51 +1,21 @@
-# Setup
-title: Dark Poole
-url: https://getpoole.com
-paginate: 1
-baseurl: ""
-permalink: pretty
+# Site settings
+title: Satellite Recordings
+description: DREAM
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
-# Gems
-plugins:
-  - jekyll-gist
-  - jekyll-paginate
-  - jekyll-seo-tag
+# User settings
+username: Satellite Recordings
+user_description: Indipendent music label, the homebase of Spark's Fighter Squadron.
+user_title: Satellite Recordings
+email: satelliterecordings@gmail.com
+# twitter_username: lorem_ipsum
+instagram_username: mauriciourraco7
+facebook_username: mauricio.urraco
+linkedin_username: murraco
+github_username:  murraco
+# medium_username: lorem_ipsum
+# medium_url: lorem_ipsum.medium.com
+# gplus_username:  lorem_ipsum
 
-# Optimize Jekyll
-exclude:
-  - .editorconfig
-  - .git
-  - .jekyll-cache
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE.md
-  - README.md
-
-sass:
-  sass_dir: _sass
-  style: :compressed
-
-# Options
-
-# Replace this value and uncomment to enable Google Analytics tracking
-# ga_analytics: UA-000000-0
-
-# Specify the author for blog posts
-author:
-  name: Satellite Recordings
-  url: 
-  email: satelliterecordings@gmail.com
-
-# Custom vars
-version: 3.0.0
-
-# Navbar page list
-nav:
-  - title: Releases
-    url: /releases
-
-  - title: Press
-    url: /archive
-
-  - title: About
-    url: /about
+exclude: ['package.json', 'src' , 'node_modules']
