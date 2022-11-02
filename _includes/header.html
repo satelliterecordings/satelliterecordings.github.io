@@ -2,14 +2,20 @@
   <div class="header">
       <h1>
         <span class="site-title">{{ site.username }}</span>
-        <span class="site-description">{{ site.user_title }}</span>
+        <span class="site-description">DREAM</span>
       </h1>
       <div class="header-icons">
+        <a aria-label="Releases" target="_blank" href="https://{{ site.username }}/releases"><i class="fa-solid fa-list-music" aria-hidden="true"></i></a>
+        <a aria-label="Press" target="_blank" href="https://{{ site.username }}/archives"><i class="fa-regular fa-newspaper" aria-hidden="true"></i></a>
+        <a aria-label="Artists" target="_blank" href="https://{{ site.username }}/artists"><i class="fa-solid fa-user-music" aria-hidden="true"></i></a>
+        <a aria-label="Send email" href="mailto:{{ site.email }}"><i class="icon fa fa-envelope"></i></a>
+      </div>
+      ;<div class="header-icons">
         {% if site.email %}
         <a aria-label="Send email" href="mailto:{{ site.email }}"><i class="icon fa fa-envelope"></i></a>
         {% endif %}
         {% if site.twitter_username %}
-        <a aria-label="My Twitter" target="_blank" href="https://twitter.com/{{ site.twitter_username }}"><i class="icon fa fa-twitter" aria-hidden="true"></i></a>
+        <a aria-label="My Twitter" target="_blank" href="https://twitter.com/SatelliteRec"><i class="icon fa fa-twitter" aria-hidden="true"></i></a>
         {% endif %}
         {% if site.instagram_username %}
         <a aria-label="My Instagram" target="_blank" href="https://www.instagram.com/{{ site.instagram_username }}"><i class="icon fa fa-instagram" aria-hidden="true"></i></a>
@@ -28,10 +34,10 @@
         {% elsif site.medium_url %}
         <a aria-label="My Medium" target="_blank" href="https://{{ site.medium_url }}"><i class="icon fa fa-medium" aria-hidden="true"></i></a>
         {% endif %}
-      </div>
-      <div class="header-links">
+      ;</div>
+      ;<div class="header-links">
         <!-- <a class="link" href="#about" data-scroll>About Me</a> -->
-      </div>
+      ;</div>
   </div>
   <a class="down" href="#about" data-scroll><i class="icon fa fa-chevron-down" aria-hidden="true"></i></a>
 </div>
