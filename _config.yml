@@ -32,16 +32,19 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name: Satellite Recordings
+  url: 
+  email: satelliterecordings@gmail.com
 
 # Custom vars
 version: 3.0.0
 
 # Navbar page list
 nav:
-  - title: Blog
+  - title: Releases
+    url: /releases
+
+  - title: Press
     url: /archive
 
   - title: About
