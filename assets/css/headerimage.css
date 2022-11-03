@@ -1,17 +1,25 @@
 .multiply {
   mix-blend-mode: multiply;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  text-align:center;
 }
 
 .screen {
-  mix-blend-mode: screen; /* スクリーン */
+  mix-blend-mode: screen;
 }
 
 .overlay {
-  mix-blend-mode: overlay; /* オーバーレイ */
+  mix-blend-mode: overlay;
 }
 
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+.header-texts{
+  letter-spacing: 5%;
+  text-decoration: none;
+  font-size:20px;
+  display:block;
+  line-height:1;
+  color:#fff;
+  margin-top:10px;
 }
