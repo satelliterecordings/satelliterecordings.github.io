@@ -68,7 +68,7 @@
   background-image: url("/assets/sfsqlogo21.png");
   opacity:1.0;
   display:flex;
-  vertical-align:center;
+  vertical-align:top;
   horizontal-align: center;
   min-height:100vh;
   text-align: center !important;
