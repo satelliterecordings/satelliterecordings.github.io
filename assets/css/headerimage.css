@@ -10,7 +10,7 @@
   mix-blend-mode: screen;
 }
 
-.overlay {
+.headerimage {
   background-image: url("/assets/satelliterecordingsheader.webp");
   display:flex;
   justify-content:center;
