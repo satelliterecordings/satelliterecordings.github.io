@@ -56,7 +56,7 @@
 .pressbody{
   background-color: #1a222c;
   opacity: 1 !important;
-  text-align: center;
+  text-align: center !important;
   font-size:30px;
   align-items: center !important;
   max-width: auto;
