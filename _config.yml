@@ -18,4 +18,13 @@ github_username:
 # medium_url: lorem_ipsum.medium.com
 # gplus_username:  lorem_ipsum
 
+plugins:
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-seo-tag
+
+sass:
+  sass_dir: /src/styles/
+  style: :compressed
+
 exclude: ['package.json', 'src' , 'node_modules']
