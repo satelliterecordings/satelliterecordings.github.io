@@ -11,16 +11,17 @@
 }
 
 .overlay {
-  mix-blend-mode: overlay;
+  background-image: url("/assets/satelliterecordingsheader.webp");
   display:flex;
   justify-content:center;
   align-items:center;
   text-align:center;
+  mix-blend-mode: overlay;
 }
 
 .header-texts{
-  letter-spacing: 5%;
-  text-decoration: none;
+  letter-spacing:5%;
+  text-decoration:none;
   font-size:20px;
   display:block;
   line-height:1;
