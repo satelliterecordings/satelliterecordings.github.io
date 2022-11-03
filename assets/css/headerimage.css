@@ -63,3 +63,29 @@
   margin: auto;
   color: #FFF !important;
 }
+
+.ArtistSFSQ {
+  background-image: url("/assets/sfsqlogo21.png");
+  opacity:1.0;
+  display:flex;
+  vertical-align:center;
+  horizontal-align: center;
+  min-height:100vh;
+  text-align: center !important;
+  align-items: center !important;
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-attachment:fixed;
+  color: #FFF !important;
+  margin: auto;
+}
+
+.artisttext{
+  font-family:'Montserrat',sans-serif;
+  text-align: center !important;
+  font-size:30px;
+  align-items: center !important;
+  max-width: auto;
+  margin: auto;
+  color: #FFF !important;
+}
