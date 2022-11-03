@@ -1,0 +1,14 @@
+<header class="pressbody">
+	<a id="Press" style="text-decoration: none; color:#FFFF!important; opacity: 1;">PRESS</a>
+	<ul>
+  	{% for post in site.posts %}
+    	<li>
+      	<a href="{{ post.url }}" style="text-decoration: none; color:#FFFF!important; opacity: 1; font-size:20px;">{{ post.title }}</a>
+    	</li>
+  	{% endfor %}
+	</ul>
+</header>
+
+<div class="row">
+  {{ content }}
+</div>

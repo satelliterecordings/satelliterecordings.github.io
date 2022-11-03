@@ -10,7 +10,9 @@
       <section id="Releases">
         {% include releases.html %}
       </section>
-      <section id="Press">
+      <section id="Press">  
+        {% assign post = site.posts.first %}
+        {% assign content = post.content %}
         {% include press.html %}
       </section>
       <section id="Artists">
