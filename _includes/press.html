@@ -1,4 +1,13 @@
----
-layout: post
-title:  "Press"
----
+<header class="pressbody">
+	<a id="Press" style="text-decoration: none; color:#FFFF!important; opacity: 1;">PRESS</a>
+  	<dl class="dl-horizontal">
+    <dt>created</dt>
+    <dd>{{page.date | date : "%F"}}</dd>
+    <dt>last change</dt>
+    <dd>{{page.lastchange}}</dd>
+  </dl>
+</header>
+
+<div class="row">
+  {{ content }}
+</div>
