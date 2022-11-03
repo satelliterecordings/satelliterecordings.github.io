@@ -12,19 +12,19 @@
 
 .headerimage {
   background-image: url("/assets/satelliterecordingsheader.webp");
+  mix-blend-mode:screen;
+  opacity:1.0;
   display:flex;
-  justify-content:center;
-  align-items:center;
-  text-align:center;
-  mix-blend-mode: overlay;
+  vertical-align:bottom;
+  min-height:100vh;
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-attachment:fixed
 }
 
 .header-texts{
-  letter-spacing:5%;
-  text-decoration:none;
+  opacity: 1;!important
   font-size:20px;
-  display:block;
-  line-height:1;
   color:#fff;
-  margin-top:10px;
+  text-decoration:none;
 }
