@@ -11,7 +11,6 @@ categories:
   - press
 published: true
 slug: 
-latestpost: press/2022/11/03/webpagerenewal.html
 ---
 
 # Website Renewal
