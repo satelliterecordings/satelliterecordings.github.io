@@ -4657,6 +4657,7 @@ sub, sup {
 }
 
 .user-details {
+    background-color: #3c4f66;
     text-align: center;
     margin: 5px auto
 }
