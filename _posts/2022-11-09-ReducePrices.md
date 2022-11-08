@@ -1,3 +1,18 @@
+---
+layout: post
+sha: null
+title: 'Reduced prices on bandcamp'
+date: '2022-11-09'
+info: 
+comment: 
+tags:
+  - release info
+categories:
+  - press
+published: true
+slug: 
+---
+
 #Reduced prices on bandcamp
 
 
