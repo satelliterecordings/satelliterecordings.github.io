@@ -54,7 +54,7 @@
 
 
 .pressbody{
-  background-color: #1a222c;
+  background-color: #3c4f66;
   opacity: 1 !important;
   text-align: center !important;
   font-size:30px;
@@ -65,7 +65,7 @@
 }
 
 .ArtistSFSQ {
-  background-image: url("/assets/sfsqlogo21.png");
+  background-image: url("/assets/sfsqlogo21.webp");
   opacity:1.0;
   display:flex;
   horizontal-align: center;
