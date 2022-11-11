@@ -4417,7 +4417,13 @@ ol, ul {
 }
 
 figure, ol, p, ul {
-    margin: 1em 0
+    margin: 0.4em 0;
+}
+
+@media only screen and (min-width:768px) {
+    p {
+        margin: 1em 0;
+    }
 }
 
 a img {
