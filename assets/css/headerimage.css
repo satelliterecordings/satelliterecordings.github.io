@@ -25,8 +25,8 @@
 
 @media only screen and (min-width:768px) {
     .header-texts{
-      flex-direction:row ;
-      column-gap: 20px;
+      flex-direction:row;
+      column-gap: 5vh;
     }
 
 }
@@ -38,10 +38,11 @@
 }
 
 .releasebody{
+  flex-direction: column;
   background-color: #1a222c;
   opacity: 1 !important;
   text-align: center;
-  font-size:60px;
+  font-size:30px;
   align-items: center !important;
   max-width: auto;
   margin: auto;
@@ -50,8 +51,8 @@
 
 @media only screen and (min-width:768px) {
     .releasebody{
-        margin: 20;
-        font-size: 30px;
+        font-size: 60px;
+        flex-direction:row;
     }
 
 }
