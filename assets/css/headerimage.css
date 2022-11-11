@@ -16,16 +16,17 @@
   color:#fff;
   text-decoration:none;
   display:flex;
+  flex-direction: column;
   flex-direction:row ;
   -webkit-justify-content: center;
   -ms-justify-content: center;
   justify-content: center;
-  column-gap: 40px;
+  column-gap: 20px;
 }
 
 @media only screen and (min-width:768px) {
     .header-texts{
-        flex-direction: column;
+        flex-direction:row ;
     }
 
 }
