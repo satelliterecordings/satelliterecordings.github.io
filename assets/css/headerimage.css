@@ -51,7 +51,6 @@
 @media only screen and (min-width:768px) {
     .releasebody{
         font-size: 60px;
-        flex-direction:row;
     }
 
 }
