@@ -19,6 +19,8 @@ github_username:
 # gplus_username:  lorem_ipsum
 
 markdown: CommonMarkGhPages
+kramdown:
+  parse_block_html: true
 
 plugins:
   - jekyll-gist
