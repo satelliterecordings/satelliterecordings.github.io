@@ -4418,11 +4418,13 @@ ol, ul {
 
 figure, ol, p, ul {
     margin: 0.1em 0;
+    text-decoration: none; color:#FFFF; opacity: 1;
 }
 
 @media only screen and (min-width:768px) {
     figure, ol, p, ul {
         margin: 1em 0;
+        text-decoration: none; color:#FFFF!important; opacity: 1;
     }
 }
 
