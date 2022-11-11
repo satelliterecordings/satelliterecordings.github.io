@@ -22,11 +22,11 @@ Considering current economic situations, We reduced prices some of releases on B
   
 ### Heart
 no change  
-[LINK](https://sparkdnb.bandcamp.com/album/heart-single-2022-late "Heart")
+<a href="https://sparkdnb.bandcamp.com/album/heart-single-2022-late" target="_blank">Heart</a>
   
 ### $12 Kaleidoscope
 dropped down to $9.99  
-[LINK](https://sparkdnb.bandcamp.com/album/kaleidoscope "Kaleidoscope")
+<a href="https://sparkdnb.bandcamp.com/album/kaleidoscope" target="_blank">Kaleidoscope</a>
 
 #### All $2.0 singles included in Kaleidoscope
 dropped down to $1.5  
@@ -35,10 +35,10 @@ dropped down to $0.7
   
 ### $4 Oblivion
 no changes  
-[LINK](https://sparkdnb.bandcamp.com/album/oblivion "Oblivion")
+<a href="https://sparkdnb.bandcamp.com/album/oblivion" target="_blank">Oblivion</a>
   
 ### $1.5 Dandelion
 dropped down to $1.2  
-[LINK](https://sparkdnb.bandcamp.com/album/dandelion-single-2022-early "Dandelion")
+<a href="https://sparkdnb.bandcamp.com/album/dandelion-single-2022-early" target="_blank">Dandelion</a>
   
 </details>
