@@ -23,6 +23,7 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-archives
 
 sass:
   sass_dir: /src/styles/
