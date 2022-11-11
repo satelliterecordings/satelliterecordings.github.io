@@ -3,10 +3,11 @@
   "version": "1.0.0",
   "description": "Never ending dreams",
   "main": "index.js",
+  "homepage": "https://satelliterecordings.github.io/",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Satellite Recordings",
+  "author": "Satellite Recording",
   "license": "MIT",
   "dependencies": {
     "browser-sync": "^2.18.6",
