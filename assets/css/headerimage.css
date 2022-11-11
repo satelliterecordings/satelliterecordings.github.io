@@ -20,8 +20,8 @@
   -webkit-justify-content: center;
   -ms-justify-content: center;
   justify-content: center;
-  column-gap: 1vh;
-  margin: 1vh;
+  column-gap: 0vh;
+  margin: 0vh;
 }
 
 @media only screen and (min-width:768px) {
