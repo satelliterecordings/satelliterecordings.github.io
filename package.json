@@ -1,12 +1,12 @@
 {
-  "name": "jekyll-theme-minimal-resume",
+  "name": "satellite-recordings",
   "version": "1.0.0",
-  "description": "This is a simple Jekyll theme for a minimal resume website.",
+  "description": "Never ending dreams",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Mauricio Urraco <mauriurraco@gmail.com>",
+  "author": "Satellite Recordings",
   "license": "MIT",
   "dependencies": {
     "browser-sync": "^2.18.6",
