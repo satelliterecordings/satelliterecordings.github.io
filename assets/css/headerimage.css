@@ -46,6 +46,7 @@
   max-width: auto;
   margin: auto;
   color: #FFF !important;
+  display:flex;
   flex-direction:column;
 }
 
