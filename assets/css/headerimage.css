@@ -44,7 +44,7 @@
   font-size:30px;
   align-items: center !important;
   max-width: auto;
-  margin: auto;
+  margin: min(auto, 5vh);
   color: #FFF !important;
 }
 
@@ -66,6 +66,7 @@
   -ms-justify-content: center !important;
   justify-content: center !important;
   gap: 10vh;
+  margin: min(auto, 5vh);
 }
 
 @media only screen and (min-width:768px) {
@@ -84,7 +85,7 @@
   font-size:30px;
   align-items: center !important;
   max-width: auto;
-  margin: auto;
+  margin: min(auto, 5vh);
   color: #FFF !important;
 }
 
