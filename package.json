@@ -7,7 +7,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Satellite Recording",
+  "author": "Satellite Recordings",
   "license": "MIT",
   "dependencies": {
     "browser-sync": "^2.18.6",
