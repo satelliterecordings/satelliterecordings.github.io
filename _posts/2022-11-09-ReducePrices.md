@@ -18,7 +18,10 @@ slug:
 
 Considering current economic situations, We reduced prices some of releases on Bandcamp. This change will continue unless there is a sudden change in the situation.
 
-<details><summary>Prices</summary>
+<details>
+<summary>
+Prices
+</summary>
   
 ### Heart
 no change  
@@ -41,5 +44,4 @@ no changes
 dropped down to $1.2  
 [LINK](https://sparkdnb.bandcamp.com/album/dandelion-single-2022-early "Dandelion")
   
-
 </details>
