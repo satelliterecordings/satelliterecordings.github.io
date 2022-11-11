@@ -89,6 +89,7 @@
 }
 
 .ArtistSFSQ {
+  background-color: #1a222c;
   background-image: url("/assets/sfsqlogo21.webp");
   opacity:1.0;
   display:flex;
