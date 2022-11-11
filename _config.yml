@@ -28,4 +28,4 @@ sass:
   sass_dir: /src/styles/
   style: :compressed
 
-exclude: ['package.json', 'src' , 'node_modules']
+exclude: ['src' , 'node_modules']
