@@ -4382,10 +4382,18 @@ article, aside, figcaption, figure, footer, header, nav, section {
 }
 
 h1, h2, h3, h4, stong {
-    margin-top: 1em;
-    padding-top: 1em;
-    line-height: 1.25;
+    margin-top: 0.4em;
+    padding-top: 0.4em;
     color: #FFFF
+}
+
+@media only screen and (min-width:768px) {
+    h1, h2, h3, h4, stong {
+        margin-top: 1em;
+        padding-top: 1em;
+        line-height: 1.25;
+        color: #FFFF
+    }
 }
 
 h1 {
