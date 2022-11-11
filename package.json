@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Never ending dreams",
   "main": "index.js",
-  "homepage": "https://satelliterecordings.github.io/",
+  "homepage": "https://satelliterecordings.github.io/satelliterecordings.github.io",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
