@@ -18,7 +18,7 @@ github_username:
 # medium_url: lorem_ipsum.medium.com
 # gplus_username:  lorem_ipsum
 
-markdown: CommonMarkGhPages
+markdown: kramdown
 kramdown:
   parse_block_html: true
 
