@@ -20,12 +20,14 @@
   -webkit-justify-content: center;
   -ms-justify-content: center;
   justify-content: center;
+  column-gap: 5vh;
+  margin: 5vh;
 }
 
 @media only screen and (min-width:768px) {
     .header-texts{
       flex-direction:row;
-      column-gap: 5vh;
+      column-gap: 10vh;
     }
 
 }
@@ -37,7 +39,6 @@
 }
 
 .releasebody{
-  flex-direction: column;
   background-color: #1a222c;
   opacity: 1 !important;
   text-align: center;
