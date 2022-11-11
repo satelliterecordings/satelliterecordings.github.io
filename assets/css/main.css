@@ -4423,14 +4423,12 @@ ol, ul {
 }
 
 figure, ol, p, ul {
-    font-size: 1rem;
     margin: 0.1em 0;
     text-decoration: none; color:#FFFF; opacity: 1;
 }
 
 @media only screen and (min-width:768px) {
     figure, ol, p, ul {
-        font-size: 1rem;
         margin: 1em 0;
         text-decoration: none; color:#FFFF; opacity: 1;
     }
@@ -4683,7 +4681,10 @@ sub, sup {
 .user-details {
     background-color: #3c4f66;
     text-align: center;
-    margin: 5px auto
+    margin: 5px auto;
+    text-decoration: none;
+    color:#FFFF;
+    opacity: 1;
 }
 
 .footer {
