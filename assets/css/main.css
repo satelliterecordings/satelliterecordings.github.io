@@ -4392,43 +4392,45 @@ h1, h2, h3, h4, stong {
         margin-top: 1em;
         padding-top: 1em;
         line-height: 1.25;
-        color: #FFFF
+        color: #FFFF;
         text-decoration: none;
     }
 }
 
 h1 {
-    font-size: 2.5rem
+    font-size: 2.5rem;
     text-decoration: none;
 }
 
 h2 {
-    font-size: 2rem
+    font-size: 2rem;
     text-decoration: none;
 }
 
 h3 {
-    font-size: 1.5rem
+    font-size: 1.5rem;
     text-decoration: none;
 }
 
 h4 {
-    font-size: 1rem
+    font-size: 1rem;
     text-decoration: none;
 }
 
 ol, ul {
-    padding-left: 40px
+    padding-left: 40px;
     text-decoration: none;
 }
 
 figure, ol, p, ul {
+    font-size: 1rem;
     margin: 0.1em 0;
     text-decoration: none; color:#FFFF; opacity: 1;
 }
 
 @media only screen and (min-width:768px) {
     figure, ol, p, ul {
+        font-size: 1rem;
         margin: 1em 0;
         text-decoration: none; color:#FFFF; opacity: 1;
     }
