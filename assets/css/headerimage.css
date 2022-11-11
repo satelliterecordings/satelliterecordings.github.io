@@ -20,12 +20,13 @@
   -webkit-justify-content: center;
   -ms-justify-content: center;
   justify-content: center;
-  column-gap: 20px;
+  column-gap: auto;
 }
 
 @media only screen and (min-width:768px) {
     .header-texts{
       flex-direction:row ;
+      column-gap: 20px;
     }
 
 }
