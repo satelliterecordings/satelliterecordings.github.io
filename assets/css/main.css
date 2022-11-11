@@ -4382,8 +4382,8 @@ article, aside, figcaption, figure, footer, header, nav, section {
 }
 
 h1, h2, h3, h4, stong {
-    margin-top: 0.05em;
-    padding-top: 0.05em;
+    margin-top: 0px;
+    padding-top: 0px;
     color: #FFFF
 }
 

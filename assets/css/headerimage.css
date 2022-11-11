@@ -20,8 +20,8 @@
   -webkit-justify-content: center;
   -ms-justify-content: center;
   justify-content: center;
-  column-gap: 5vh;
-  margin: 5vh;
+  column-gap: 1vh;
+  margin: 1vh;
 }
 
 @media only screen and (min-width:768px) {
@@ -29,7 +29,6 @@
       flex-direction:row;
       column-gap: 10vh;
     }
-
 }
 
 .Artworks{
