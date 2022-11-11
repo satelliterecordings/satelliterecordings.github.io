@@ -4393,27 +4393,33 @@ h1, h2, h3, h4, stong {
         padding-top: 1em;
         line-height: 1.25;
         color: #FFFF
+        text-decoration: none;
     }
 }
 
 h1 {
     font-size: 2.5rem
+    text-decoration: none;
 }
 
 h2 {
     font-size: 2rem
+    text-decoration: none;
 }
 
 h3 {
     font-size: 1.5rem
+    text-decoration: none;
 }
 
 h4 {
     font-size: 1rem
+    text-decoration: none;
 }
 
 ol, ul {
     padding-left: 40px
+    text-decoration: none;
 }
 
 figure, ol, p, ul {
@@ -4424,7 +4430,7 @@ figure, ol, p, ul {
 @media only screen and (min-width:768px) {
     figure, ol, p, ul {
         margin: 1em 0;
-        text-decoration: none; color:#FFFF!important; opacity: 1;
+        text-decoration: none; color:#FFFF; opacity: 1;
     }
 }
 
