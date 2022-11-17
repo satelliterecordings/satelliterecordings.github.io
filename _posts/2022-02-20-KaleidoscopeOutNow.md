@@ -17,7 +17,7 @@ slug:
 
 # Kaleidoscope Out Now
 
-
+<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2093992949/size=large/bgcol=333333/linkcol=0f91ff/tracklist=false/transparent=true/" seamless><a href="https://sparkdnb.bandcamp.com/album/kaleidoscope">Kaleidoscope by SFSQ</a></iframe>
 
 <p><a href="https://open.spotify.com/embed/album/1Grz6s7cNfv7jHo9nvQGbM" target="_blank" style="text-decoration: none; color:#FFFF!important; opacity: 1;">Spotify</a></p>
   
