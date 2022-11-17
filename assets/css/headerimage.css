@@ -103,7 +103,7 @@
 }
 
 .pressbody{
-  padding: min(5em, 5em);
+  padding: min(0.5em, 0.5em);
   background-color: #3c4f66;
   opacity: 1 !important;
   font-size:30px;
@@ -114,6 +114,13 @@
   color: #FFF !important;
 }
 
+@media only screen and (min-width:768px) {
+    .pressbody{
+        padding: min(5em, 5em);
+    }
+
+}
+
 .pressarticle{
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
@@ -121,9 +128,16 @@
   border-bottom-left-radius: 10px;
   margin-left: auto;
   margin-right: auto;
-  padding: min(1em, 1em);
+  padding: min(.3em, .3em);
   background-color: #1a222c;
     box-sizing: border-box;
+}
+
+@media only screen and (min-width:768px) {
+    .pressarticle{
+     padding: min(1em, 1em);
+    }
+
 }
 
 .ArtistSFSQ {
