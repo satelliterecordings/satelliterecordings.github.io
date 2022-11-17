@@ -21,13 +21,13 @@ slug:
      src="/assets/kaleidoscope-artwork.webp"
      alt="KALEIDOSCOPE"></a><iframe style="border: 1em; width: 400px; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=2093992949/size=large/bgcol=333333/linkcol=0f91ff/artwork=small/transparent=true/" seamless><a href="https://sparkdnb.bandcamp.com/album/kaleidoscope">Kaleidoscope by SFSQ</a></iframe></div>
 
-<h2><a href="https://open.spotify.com/embed/album/1Grz6s7cNfv7jHo9nvQGbM" target="_blank" style="text-decoration: none; color:#FFFF!important; opacity: 1;">Spotify</a></h2>
+<h3><a href="https://open.spotify.com/embed/album/1Grz6s7cNfv7jHo9nvQGbM" target="_blank" style="text-decoration: none; color:#FFFF!important; opacity: 1;">Spotify</a></h3>
   
   
-<h2><a href="https://music.apple.com/us/album/kaleidoscope/1607771272" target="_blank" style="text-decoration: none; color:#FFFF!important; opacity: 1;">Apple Music</a></h2>
+<h3><a href="https://music.apple.com/us/album/kaleidoscope/1607771272" target="_blank" style="text-decoration: none; color:#FFFF!important; opacity: 1;">Apple Music</a></h3>
   
   
-<h2><a href="https://sparkdnb.bandcamp.com/album/kaleidoscope" target="_blank" style="text-decoration: none; color:#FFFF!important; opacity: 1;">Bandcamp</a></h2>
+<h3><a href="https://sparkdnb.bandcamp.com/album/kaleidoscope" target="_blank" style="text-decoration: none; color:#FFFF!important; opacity: 1;">Bandcamp</a></h3>
 
   
   
