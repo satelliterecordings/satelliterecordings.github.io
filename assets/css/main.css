@@ -22,8 +22,15 @@ progress, sub, sup {
 html {
     background-color: #3c4f66;
     line-height: 1.15;
-    -ms-text-size-adjust: 80%;
+    -ms-text-size-adjust: 70%;
+    -webkit-text-size-adjust: 70%
+}
+
+@media only screen and (min-width:768px) {
+    html {
+    -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%
+    }
 }
 
 body {
