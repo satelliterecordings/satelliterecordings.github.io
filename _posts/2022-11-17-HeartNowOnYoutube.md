@@ -15,6 +15,6 @@ published: true
 slug: 
 ---
 
-# Spark's Fighter Squadron - Heart Now On Youtube
+## Spark's Fighter Squadron - Heart Now On Youtube
 
-<iframe width="auto" height="auto" src="https://www.youtube.com/embed/7E-Bwki5AUg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="release1"><iframe width="auto" height="auto" src="https://www.youtube.com/embed/7E-Bwki5AUg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
