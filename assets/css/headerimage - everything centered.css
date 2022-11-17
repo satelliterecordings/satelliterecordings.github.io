@@ -103,27 +103,16 @@
 }
 
 .pressbody{
-  padding: min(5em, 5em);
   background-color: #3c4f66;
   opacity: 1 !important;
+  text-align: center !important;
   font-size:30px;
+  align-items: center !important;
   max-width: auto;
   margin: min(auto, 5vh);
   margin-left: auto;
   margin-right: auto;
   color: #FFF !important;
-}
-
-.pressarticle{
-  border-top-left-radius: 10px;
-  border-top-right-radius: 10px;
-  border-bottom-right-radius: 10px;
-  border-bottom-left-radius: 10px;
-  margin-left: auto;
-  margin-right: auto;
-  padding: min(1em, 1em);
-  background-color: #1a222c;
-    box-sizing: border-box;
 }
 
 .ArtistSFSQ {

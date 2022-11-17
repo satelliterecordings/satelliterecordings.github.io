@@ -18,9 +18,10 @@ github_username:
 # medium_url: lorem_ipsum.medium.com
 # gplus_username:  lorem_ipsum
 
-markdown: kramdown
-kramdown:
-  parse_block_html: true
+markdown: CommonMarkGhPages
+commonmark:
+  options: ["UNSAFE", "SMART", "FOOTNOTES"]
+  extensions: ["strikethrough", "autolink", "table", "tagfilter"]
 
 plugins:
   - jekyll-gist

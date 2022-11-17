@@ -35,7 +35,7 @@ article, aside, details, figcaption, figure, footer, header, main, menu, nav, se
 }
 
 h1 {
-    text-decoration: none;
+    text-decoration: none!important;
     color: #FFFF;
     font-size: 2em;
     margin: .67em 0

@@ -5,4 +5,6 @@ gem "webrick", "~> 1.7"
 
 group :jekyll_plugins do
   gem 'jekyll-commonmark-ghpages'
+  gem 'jekyll-seo'
+  gem 'jekyll-archives'
 end
