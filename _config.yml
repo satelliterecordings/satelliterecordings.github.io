@@ -34,4 +34,13 @@ sass:
   sass_dir: /src/styles/
   style: :compressed
 
+jekyll-archives:
+  enabled: all
+  layouts:
+    tag: archive/tag
+    category: archive/category
+  permalinks:
+    tag: '/tags/:name/'
+    category: '/category/:name/'
+
 exclude: ['src' , 'node_modules']
