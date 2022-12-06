@@ -10,7 +10,15 @@ title:  "Archives"
 <body>
 <div class='pressbody'>
 	<div class='pressarticle'>
+		  {%- if page.image -%}
+        <img src="{{- page.image | relative_url -}}" alt="" class="featured-image-post">
+      {%- else -%}
+      {%- assign postImage = "/assets/images/sr.png" -%}
+         <img src="{{- postImage | relative_url -}}" alt="" class="featured-image-post">
+      {%- endif -%}
+      <div class='pressarticle'>
   		{{ content }}
+  		</div>
 	</div>
 </div>
 </body>

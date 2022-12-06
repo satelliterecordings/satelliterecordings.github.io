@@ -13,7 +13,10 @@ categories:
   - press
 published: true
 slug: 
+image: /assets/heart-artwork.webp
 ---
+
+
 
 ## Spark's Fighter Squadron - Heart Out Now
 

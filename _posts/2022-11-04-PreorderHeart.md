@@ -13,7 +13,9 @@ categories:
   - press
 published: true
 slug: 
+image: /assets/heart-artwork.webp
 ---
+
 
 ## Start pre-order for Heart
 

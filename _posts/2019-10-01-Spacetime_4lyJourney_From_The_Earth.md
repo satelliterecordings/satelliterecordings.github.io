@@ -13,7 +13,9 @@ categories:
   - press
 published: true
 slug: 
+image: /assets/space.webp
 ---
+
 
 ## Spacetime / 4ly Journey From The Earth
 

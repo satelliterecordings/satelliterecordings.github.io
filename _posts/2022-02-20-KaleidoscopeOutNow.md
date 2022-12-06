@@ -13,7 +13,9 @@ categories:
   - press
 published: true
 slug: 
+image: /assets/kaleidoscope-artwork.webp
 ---
+
 
 ## Kaleidoscope Out Now
 

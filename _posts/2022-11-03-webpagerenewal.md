@@ -11,6 +11,7 @@ categories:
   - press
 published: true
 slug: 
+image: /assets/images/sr.png
 ---
 
 ## Website Renewal

@@ -13,4 +13,5 @@ categories:
   - press
 published: true
 slug: 
+image:
 ---
