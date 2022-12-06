@@ -4711,3 +4711,16 @@ sub, sup {
     margin: 0;
     color: #fff
 }
+
+a, a:link, a:visited, a:focus, a:hover, a:active{
+    color:white;
+    text-decoration:none; 
+    cursor: crosshair;
+    font-size: 30px;
+}
+
+@media only screen and (min-width:768px) {
+    a, a:link, a:visited, a:focus, a:hover, a:active{
+        font-size:30px;
+    }
+}

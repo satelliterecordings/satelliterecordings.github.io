@@ -43,4 +43,17 @@ jekyll-archives:
     tag: '/tags/:name/'
     category: '/category/:name/'
 
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: post
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+
 exclude: ['src' , 'node_modules']

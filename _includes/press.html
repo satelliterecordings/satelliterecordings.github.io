@@ -1,5 +1,5 @@
 <header class="pressbody">
-<div style="text-decoration: none; color:#FFFF!important; opacity: 1;"><h1>PRESS</h1>
+<div><h1>PRESS</h1>
   <div class='pressarticle'>
         {% if post.title %}
       <h2 class="entry-title" style="text-decoration: none; color:#FFFF!important; font-size: 20px; opacity: 1;">
@@ -11,12 +11,21 @@
     </div>
     <p>
     </p>
-    <div class='pressarticle'>
+    <div class='pressarticleP'>
         <ul>
-          <div style="text-decoration: none; color:#FFFF!important; opacity: 1;"><h1>ARCHIVES</h1>
+            <div><h1>TAGS</h1>
+            {% for tag in site.tags %}
+              {% capture name %}{{ tag[0] }}{% endcapture %}
+              <h3><a href="tags/{{ name }}/index.html">{{ name }} ({{ site.tags[name] | size }})</a></h3>
+              <hr>
+            {% endfor %}
+        </ul>
+        <ul>
+          <div><h1>Latest posts</h1>
           {% for post in site.posts %}
             <li>
-              <a href="{{ post.url }}" style="text-decoration: none; color:#FFFF!important; font-size: 20px; opacity: 1;">{{ post.title }}</a>
+              <a href="{{ post.url }}">{{ post.title }}</a>
+              <hr>
             </li>
           {% endfor %}
         </ul>

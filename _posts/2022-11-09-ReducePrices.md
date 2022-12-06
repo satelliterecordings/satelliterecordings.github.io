@@ -6,7 +6,7 @@ date: '2022-11-09'
 info: 
 comment: 
 tags:
-  - release info
+  - release-info
 categories:
   - press
 published: true

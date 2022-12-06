@@ -1,0 +1,27 @@
+---
+title:  "Archives - {{ page.title }}"
+---
+<!DOCTYPE html>
+<html lang="en">
+  {% include head.html %}
+<header class="header-texts2">
+  <div>
+    <h1><a href="https://satellite-recordings.com" target="blank" style="text-decoration: none; color:#FFFF!important; opacity: 1;">SATELLITE RECORDINGS</a></h1>
+    <h2>{{ page.title }}</h2>
+  </div>
+</header>
+<body>
+<div class='pressbody'>
+  <div class='pressarticle'>
+    {% for post in page.posts | size %}
+        <li>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <p><span style="font-size:60% ;color:#3c4f66">{{ post.date | date_to_string }}</span></p>
+          <hr>
+        </li>
+    {% endfor %}
+  </div>
+</div>
+</body>
+
+{% include footer.html %}

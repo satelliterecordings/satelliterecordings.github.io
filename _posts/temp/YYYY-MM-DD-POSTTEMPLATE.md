@@ -6,8 +6,8 @@ date: 'YYYY-MM-DD'
 info: 
 comment: 
 tags:
-  - release info
-  - drum&bass
+  - release-info
+  - drum-and-bass
   - dreampop
 categories:
   - press

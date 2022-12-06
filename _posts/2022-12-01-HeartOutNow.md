@@ -6,8 +6,8 @@ date: '2022-12-01'
 info: 
 comment: 
 tags:
-  - release info
-  - drum&bass
+  - release-info
+  - drum-and-bass
   - dreampop
 categories:
   - press
