@@ -16,10 +16,10 @@ title:  "Archives - {{ page.title }}"
     {% for post in page.posts | size %}
         <li>
           {%- if post.image -%}
-            <img src="{{- post.image -}}" alt="" class="blog-roll-image">
+            <img src="{{- post.image2 -}}" alt="" class="blog-roll-image">
           {%- else -%}
-            {%- assign postImage = "/assets/images/sr.png" -%}
-            <img src="{{- postImage -}}" alt="" class="blog-roll-image">
+            {%- assign postImage = "/assets/sr.webp" -%}
+            <img src="{{- postImage2 -}}" alt="" class="blog-roll-image">
           {%- endif -%}
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
           <p><span style="font-size:60% ;color:#3c4f66">{{ post.date | date_to_string }}</span></p>

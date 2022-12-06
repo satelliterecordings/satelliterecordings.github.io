@@ -14,6 +14,7 @@ categories:
 published: true
 slug: 
 image: /assets/space.webp
+image2: /assets/space75.webp
 ---
 
 

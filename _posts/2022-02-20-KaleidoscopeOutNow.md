@@ -14,6 +14,7 @@ categories:
 published: true
 slug: 
 image: /assets/kaleidoscope-artwork.webp
+image2: /assets/kaleidoscope-artwork75.webp
 ---
 
 

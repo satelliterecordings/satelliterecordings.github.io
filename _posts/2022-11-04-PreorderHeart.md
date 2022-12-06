@@ -14,6 +14,7 @@ categories:
 published: true
 slug: 
 image: /assets/heart-artwork.webp
+image2: /assets/heart-artwork75.webp
 ---
 
 

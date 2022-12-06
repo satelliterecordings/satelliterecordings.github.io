@@ -12,6 +12,7 @@ categories:
 published: true
 slug: 
 image: /assets/images/sr.png
+image2: /assets/sr.webp
 ---
 
 ## Website Renewal
