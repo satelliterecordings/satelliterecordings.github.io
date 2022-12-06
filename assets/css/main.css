@@ -668,10 +668,10 @@ li {
     color: #fff;
     background-color: #444444; }
 
-iframe {display: none;}
+iframe {position: absolute; left: -50000px;}
 
 @media only screen and (min-width:768px) {
-    iframe{display: revert;}
+    iframe{position: relative; left: 0px;}
 }
 
-.pressarticle iframe{display: revert;}
+.pressarticle iframe{position: relative; left: 0px;}
