@@ -4740,7 +4740,7 @@ li {
   background-image: url("/assets/sfsqlogo21.webp");
   opacity:1.0;
   display:flex;
-  horizontal-align: center;
+  horizontal-align: center!important;
   min-height:100vh;
   text-align: center !important;
   align-items: center !important;
