@@ -28,10 +28,10 @@
           {% for post in site.posts %}
             <li>
               {%- if post.image -%}
-                <img src="{{- post.image | relative_url -}}" alt="" class="blog-roll-image2">
+                <img oading="lazy" src="{{- post.image | relative_url -}}" alt="" class="blog-roll-image2">
               {%- else -%}
                 {%- assign postImage = "/assets/images/sr.png" -%}
-                <img src="{{- postImage | relative_url -}}" alt="" class="blog-roll-image2">
+                <img loading="lazy" src="{{- postImage | relative_url -}}" alt="" class="blog-roll-image2">
               {%- endif -%}
               <a href="{{ post.url }}">{{ post.title }}</a>
               <hr>
