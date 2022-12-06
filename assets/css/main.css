@@ -575,7 +575,6 @@ li {
     .pressarticle{
      padding: min(1em, 1em);
     }
-
 }
 
 .pressarticleP{
@@ -674,3 +673,5 @@ iframe {display: none;}
 @media only screen and (min-width:768px) {
     iframe{display: revert;}
 }
+
+.pressarticle iframe{display: revert;}
