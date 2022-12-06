@@ -56,4 +56,11 @@ defaults:
       share: true
       related: true
 
+# Archives
+collections:
+  archives:
+    output: true
+    permalink: /archives/:path/
+
+
 exclude: ['src' , 'node_modules']
