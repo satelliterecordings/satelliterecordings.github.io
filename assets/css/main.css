@@ -4734,3 +4734,20 @@ a, a:link, a:visited, a:focus, a:hover, a:active{
 li {
     list-style-type: none;
 }
+
+.ArtistSFSQ {
+  background-color: #1a222c;
+  background-image: url("/assets/sfsqlogo21.webp");
+  opacity:1.0;
+  display:flex;
+  horizontal-align: center;
+  min-height:100vh;
+  text-align: center !important;
+  align-items: center !important;
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-attachment:fixed;
+  color: #FFF !important;
+  margin: auto;
+  vertical-align:top;
+}
