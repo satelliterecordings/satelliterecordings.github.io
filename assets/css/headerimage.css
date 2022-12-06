@@ -4,11 +4,14 @@
   opacity:1.0;
   display:flex;
   vertical-align:bottom;
+  margin-left: auto;
   min-height:100vh;
   background-repeat:no-repeat;
   background-size:cover;
   background-attachment:fixed
 }
+
+
 
 .header-texts{
   opacity: 1;!important
