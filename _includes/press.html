@@ -16,7 +16,7 @@
             <div><h1>TAGS</h1>
             {% for tag in site.tags %}
               {% capture name %}{{ tag[0] }}{% endcapture %}
-              <h3><a href="tags/{{ name }}/index.html">{{ name }} ({{ site.tags[name] | size }})</a></h3>
+              <h3><a href="tags/{{ name }}/">{{ name }} ({{ site.tags[name] | size }})</a></h3>
               <hr>
             {% endfor %}
         </ul>
