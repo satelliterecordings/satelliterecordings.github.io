@@ -1,0 +1,8 @@
+
+---update tags html----
+run jekyll on the local computer
+
+bundle exec jekyll serve
+
+copy tags folder from /_site/tags
+paste into root folder
