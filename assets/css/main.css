@@ -610,7 +610,6 @@ li {
 
 .ArtistSFSQ {
   background-color: #1a222c;
-  background-image: url("/assets/sfsqlogo21.webp");
   opacity:1.0;
   display:flex;
   horizontal-align: center;
@@ -623,6 +622,10 @@ li {
   color: #FFF !important;
   margin: auto;
   vertical-align:top;
+}
+
+@media only screen and (min-width:768px) {
+    iframe{background-image: url("/assets/sfsqlogo21.webp");}
 }
 
 .artisttext{
@@ -665,3 +668,9 @@ li {
   .e:hover {
     color: #fff;
     background-color: #444444; }
+
+iframe {display: none;}
+
+@media only screen and (min-width:768px) {
+    iframe{display: revert;}
+}
